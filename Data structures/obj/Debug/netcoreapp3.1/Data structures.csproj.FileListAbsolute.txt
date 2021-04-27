@@ -1,0 +1,12 @@
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/bin/Debug/netcoreapp3.1/Data structures.deps.json
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/bin/Debug/netcoreapp3.1/Data structures.runtimeconfig.json
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/bin/Debug/netcoreapp3.1/Data structures.runtimeconfig.dev.json
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/bin/Debug/netcoreapp3.1/Data structures.dll
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/bin/Debug/netcoreapp3.1/Data structures.pdb
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.csprojAssemblyReference.cache
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.AssemblyInfoInputs.cache
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.AssemblyInfo.cs
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.csproj.CoreCompileInputs.cache
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.dll
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.pdb
+/Users/sriharshavitta/RiderProjects/Queues/Data structures/obj/Debug/netcoreapp3.1/Data structures.genruntimeconfig.cache
